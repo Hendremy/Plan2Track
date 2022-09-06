@@ -1,0 +1,32 @@
+[
+  {
+    "Code": "D007",
+    "Password": "DaniBond",
+    "LastName": "Bond",
+    "FirstName": "Dani"
+  },
+  {
+    "Code": "G021",
+    "Password": "Woof",
+    "LastName": "Boy",
+    "FirstName": "Good"
+  },
+  {
+    "Code": "H042",
+    "Password": "JiHe",
+    "LastName": "Hendrix",
+    "FirstName": "Jimi"
+  },
+  {
+    "Code": "F004",
+    "Password": "OktoberFest",
+    "LastName": "Muller",
+    "FirstName": "Gerard"
+  },
+  {
+    "Code": "S010",
+    "Password": "HELMo",
+    "LastName": "Morty",
+    "FirstName": "Helene"
+  }
+]

@@ -1,0 +1,68 @@
+{
+  "Name": "HELMO -Garden Party",
+  "Jobs": [
+    {
+      "Name": "D",
+      "Technician": "H042",
+      "Description": "Monter bar",
+      "ExpStart": "2021-09-06",
+      "ExpEnd": "2021-09-12",
+      "ActStart": "",
+      "ActEnd": ""
+    },
+    {
+      "Name": "B",
+      "Technician": "G021",
+      "Description": "Installer eau",
+      "ExpStart": "2021-09-01",
+      "ExpEnd": "2021-09-06",
+      "ActStart": "",
+      "ActEnd": ""
+    },
+    {
+      "Name": "F",
+      "Technician": "F004",
+      "Description": "Valider electricte et hygiene",
+      "ExpStart": "2021-09-12",
+      "ExpEnd": "2021-09-18",
+      "ActStart": "",
+      "ActEnd": ""
+    },
+    {
+      "Name": "A",
+      "Technician": "D007",
+      "Description": "Installer électricité",
+      "ExpStart": "2021-09-01",
+      "ExpEnd": "2021-09-07",
+      "ActStart": "2022-08-17",
+      "ActEnd": "2022-08-17"
+    },
+    {
+      "Name": "G",
+      "Technician": "S010",
+      "Description": "Répéter les concerts",
+      "ExpStart": "2021-09-18",
+      "ExpEnd": "2021-09-22",
+      "ActStart": "",
+      "ActEnd": ""
+    },
+    {
+      "Name": "E",
+      "Technician": "D007",
+      "Description": "Installer eclairage",
+      "ExpStart": "2021-09-11",
+      "ExpEnd": "2021-09-16",
+      "ActStart": "2022-08-19",
+      "ActEnd": ""
+    },
+    {
+      "Name": "C",
+      "Technician": "H042",
+      "Description": "Monter scène",
+      "ExpStart": "2021-09-07",
+      "ExpEnd": "2021-09-11",
+      "ActStart": "",
+      "ActEnd": ""
+    }
+  ]
+}

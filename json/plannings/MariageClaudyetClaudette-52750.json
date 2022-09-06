@@ -1,0 +1,50 @@
+{
+  "Name": "Mariage Claudy et Claudette",
+  "Jobs": [
+    {
+      "Name": "E",
+      "Technician": "S010",
+      "Description": "Tester avec DJ",
+      "ExpStart": "2021-09-10",
+      "ExpEnd": "2021-09-11",
+      "ActStart": "",
+      "ActEnd": ""
+    },
+    {
+      "Name": "C",
+      "Technician": "H042",
+      "Description": "Monter scène",
+      "ExpStart": "2021-09-08",
+      "ExpEnd": "2021-09-10",
+      "ActStart": "",
+      "ActEnd": ""
+    },
+    {
+      "Name": "D",
+      "Technician": "D007",
+      "Description": "Installer éclairage",
+      "ExpStart": "2021-09-07",
+      "ExpEnd": "2021-09-09",
+      "ActStart": "2022-08-19",
+      "ActEnd": ""
+    },
+    {
+      "Name": "B",
+      "Technician": "D007",
+      "Description": "Installer électricité",
+      "ExpStart": "2021-09-05",
+      "ExpEnd": "2021-09-08",
+      "ActStart": "2022-08-19",
+      "ActEnd": "2022-08-19"
+    },
+    {
+      "Name": "A",
+      "Technician": "H042",
+      "Description": "Monter tonnelle",
+      "ExpStart": "2021-09-05",
+      "ExpEnd": "2021-09-07",
+      "ActStart": "",
+      "ActEnd": ""
+    }
+  ]
+}
