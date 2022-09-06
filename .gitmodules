@@ -1,0 +1,6 @@
+[submodule "Planner"]
+	path = Planner
+	url = https://github.com/Hendremy/Planner
+[submodule "Tracker"]
+	path = Tracker
+	url = https://github.com/Hendremy/Tracker
